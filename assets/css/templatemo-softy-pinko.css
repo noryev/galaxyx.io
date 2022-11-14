@@ -509,7 +509,7 @@ header
   -ms-transform-origin: 33% 100%;
   -webkit-transform-origin: 33% 100%;
   transform-origin: 33% 100%;
-  top: -10px;
+  top: -6px;
   z-index: 10;
 }
 
