@@ -779,7 +779,6 @@ features - COLOR for the 3 boxes
 --------------------------------------------- 
 */
 .features-small-item {
-  cursor: pointer;
   display: block;
   background: #a4b3b6;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.10);
@@ -1511,7 +1510,7 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #ff589e;
+  background-color: #a4b3b6;
   color: #a4b3b6;
 }
 
@@ -1541,12 +1540,12 @@ footer .copyright {
 
 /* 
 ---------------------------------------------
-preloader
+preloader - color for loading screen
 --------------------------------------------- 
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(135deg, #a759d1 0%, #8261ee 100%);
+  background-image: #0000;
   left: 0;
   right: 0;
   top: 0;
