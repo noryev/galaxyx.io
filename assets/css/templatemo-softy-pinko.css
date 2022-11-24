@@ -125,7 +125,7 @@ body {
 .section {
   position: relative;
   padding-top: 100px;
-  padding-bottom: 80px;
+  padding-bottom: 0px;
 }
 
 .section.colored {
@@ -155,7 +155,9 @@ line in between 2 features in the features section
   line-height: 42px;
   color: #1e1e1e;
   letter-spacing: 0.25px;
-  margin-bottom: 30px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
   position: relative;
 }
 
