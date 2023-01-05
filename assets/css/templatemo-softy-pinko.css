@@ -156,7 +156,7 @@ line in between 2 features in the features section
   color: #1e1e1e;
   letter-spacing: 0.25px;
   margin-top: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
   padding-bottom: 50px;
   position: relative;
 }
@@ -792,7 +792,7 @@ features - COLOR for the 3 boxes
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
-  padding: 30px;
+  padding: 50px;
   text-align: center;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
