@@ -93,7 +93,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-top: 0px;
+  margin-top:20px;
   margin-bottom: 0px;
 }
 
@@ -804,6 +804,7 @@ features - COLOR for the 3 boxes
 
 .features-small-item:hover .icon {
   background-color: #ffffff;
+  
 }
 
 .features-small-item .icon {
@@ -828,6 +829,7 @@ features - COLOR for the 3 boxes
   color: #a4b3b6;
 }
 
+/* padding for text below icons in between the title and the info about the title*/ 
 .features-small-item .features-title {
   font-weight: 500;
   font-size: 18px;
